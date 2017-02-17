@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListaPredio>
+  <Predios>
+    <predio name ="Predio">
+      <Nome>Predio01</Nome>
+    </predio>
+    <predio name ="Predio">
+      <Nome>block10</Nome>
+    </predio>
+    <predio name ="Predio">
+      <Nome>C</Nome>
+    </predio>
+  </Predios>  
+</ListaPredio>
